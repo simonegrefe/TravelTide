@@ -21,7 +21,6 @@ This SQL script uses a multi-stage chain of **Common Table Expressions (CTEs)** 
 
 The primary goal of this project is to enhance the understanding of customer behaviors and preferences within the TravelTide platform by segmenting users based on their interactions and subsequently assigning personalized perks to improve engagement and satisfaction. 
 
-The Tableau visualizations help to provide actionable recommendations for the TravelTide personalized rewards program.
 
 
 ## 🔑 Features
