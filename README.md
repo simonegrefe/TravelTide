@@ -102,10 +102,8 @@ No installation required. The analysis can be run directly on the PostgreSQL dat
 | **New Customer**   | recent sign-up                             | one night free with flight    |
 | **Senior**         | age over 67                                | free airport pick-up          |
 
----
 
 
+## 🪪 License
 
-
-
-
+This project is licensed for **educational and demonstration purposes only**. All data used is **fictional** and does not represent real business information.
